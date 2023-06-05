@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "contactapp",
+    "displayName": "contactapp",
+    "icon": "./src/images/icon.png",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "def189df-b5df-4aa2-b4ca-836a3d6fa075"
+      }
+    }
+  }
+}
